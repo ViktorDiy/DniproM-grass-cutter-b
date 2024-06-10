@@ -15,7 +15,7 @@ Printed parts:<br/>
 How it work after upgrade:<br/>
 https://youtu.be/CpXVAwtHHBU?si=YsWqpvHK6LhN_fbk<br/>
 <br/>
-2 screws and 2 inserters or nuts that you need (M5 thread):<br/>
+2 screws and 2 inserters (or 2 nuts) that you need (M5 thread):<br/>
 ![image](https://github.com/ViktorDiy/DniproM-grass-cutter-b/assets/147925158/9ab5a8c4-f1a7-45c1-9ef2-dbcdd2b9c3a9)<br/>
 <br/>
 For sure, you need to mirror base detail in slicer (you need left and right base details).<br/>
