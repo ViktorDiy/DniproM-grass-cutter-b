@@ -12,7 +12,7 @@ Factory and new stubs:<br/>
 Printed parts:<br/>
 ![Details](https://github.com/ViktorDiy/DniproM-grass-cutter-b/assets/147925158/6d306faf-06e2-4cb9-afd0-c8c066d279dd)<br/>
 <br/>
-How it work after upgrade:<br/>
+YT video how it work after upgrade:<br/>
 https://youtu.be/CpXVAwtHHBU?si=YsWqpvHK6LhN_fbk<br/>
 <br/>
 2 screws and 2 inserters (or 2 nuts) that you need (M5 thread):<br/>
