@@ -15,14 +15,14 @@ Printed parts:<br/>
 YT video how it work after upgrade:<br/>
 https://youtu.be/CpXVAwtHHBU?si=YsWqpvHK6LhN_fbk<br/>
 <br/>
-2 screws and 2 inserters (or 2 nuts) that you need (M5 thread):<br/>
+2 screws and 2 inserts (or 2 nuts) that you need (M5 thread):<br/>
 ![image](https://github.com/ViktorDiy/DniproM-grass-cutter-b/assets/147925158/9ab5a8c4-f1a7-45c1-9ef2-dbcdd2b9c3a9)<br/>
 <br/>
-https://epicentrk.ua/ua/shop/bolt-metricheskaya-din912-5x40-mm-8-sht-expert-fix.html
+https://epicentrk.ua/ua/shop/bolt-metricheskaya-din912-5x40-mm-8-sht-expert-fix.html<br/>
 <br/>
 For sure, you need to mirror base detail in slicer (you need left and right base details).<br/>
 <br/>
-And you should print arms in this position to prevent their broke:<br/>
+I reccomend to print arms in this position to prevent their broke:<br/>
 ![image](https://github.com/ViktorDiy/DniproM-grass-cutter-b/assets/147925158/46bd178f-79dc-4e3e-8455-5f0d69e51eaf)<br/>
 
 
